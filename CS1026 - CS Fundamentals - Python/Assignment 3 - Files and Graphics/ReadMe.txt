@@ -1,0 +1,1 @@
+Analysis of a text file of tweets. Assesses happiness levels by geographical region based on tweet contents.

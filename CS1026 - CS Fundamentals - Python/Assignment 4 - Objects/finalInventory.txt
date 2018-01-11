@@ -1,0 +1,4 @@
+partA 22.5 48
+partC 1.95 996
+partD 899.95 50
+partE 10.95 100

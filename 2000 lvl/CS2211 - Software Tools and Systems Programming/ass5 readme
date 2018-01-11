@@ -1,5 +1,0 @@
-USING makefile:
-	to compile all files - "make all"
-	to clean build - "make clean"
-	to test program with values 1+2i and 3+4i - "make test"
-	to execute program with values a+bi and c+di - "operation a b c d" 

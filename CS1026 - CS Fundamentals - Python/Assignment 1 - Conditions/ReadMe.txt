@@ -1,0 +1,1 @@
+Takes user information about a vehicle classification, rental time, odometer records and outputs and outputs information about the trip.
